@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(244, 218, 140);
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.link-box {
+  text-align: center;
+  word-spacing: 8px;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 75%;
+  border-radius: 10px;
+}
+
+a {
+  color: rgb(132, 88, 7);
+}
